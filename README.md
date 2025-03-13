@@ -33,12 +33,12 @@ Templates for establishing clear expectations between collaborators:
 
 ### Role Definition
 Frameworks for defining clear roles and responsibilities:
-- [Team Roles Framework](profile/roles/team-roles-framework.md)
+- [Team Roles Framework](roles/team-roles-framework.md)
 - [Skills Assessment Guide](roles/skills-assessment-guide.md)
 
 ### Project Planning
 Resources for effective project planning and execution:
-- [Project Planning Canvas](/profile/roles/agreements/roles/planning/project-planning-canvas.md)
+- [Project Planning Canvas](planning/project-planning-canvas.md)
 - [Milestone Planning Template](planning/milestone-planning-template.md)
 
 ### Communication Guides
