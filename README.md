@@ -67,4 +67,4 @@ Teamworkstate is a digital-first community designed to facilitate, explore, and 
 
 ## License
 
-These resources are available under the [Creative Commons Attribution 4.0 International License](teamwork-frameworks/LICENSE), which means you are free to use, adapt, and share them as long as you provide attribution.
+These resources are available under the [Creative Commons Attribution 4.0 International License](LICENSE), which means you are free to use, adapt, and share them as long as you provide attribution.
