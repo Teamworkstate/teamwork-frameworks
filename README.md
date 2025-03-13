@@ -28,7 +28,7 @@ These resources work best when customized for your specific situation. Think of 
 
 ### Collaboration Agreements
 Templates for establishing clear expectations between collaborators:
-- [Basic Collaboration Agreement](profile/roles/agreements/basic-collaboration-agreement.md)
+- [Basic Collaboration Agreement](agreements/basic-collaboration-agreement.md)
 - [Project Partnership Template](agreements/project-partnership-template.md)
 
 ### Role Definition
