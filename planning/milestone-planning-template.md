@@ -76,7 +76,9 @@ Milestones are significant points in a project timeline that mark the completion
 [Repeat for each milestone]
 
 ## Timeline Visualization
+'''
 [Month 1]        [Month 2]        [Month 3]        [Month 4]
 |                |                |                |
 Milestone 1      Milestone 2      Milestone 3      Milestone 4
+'''
 [Create a more detailed timeline visualization if needed]
